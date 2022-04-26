@@ -2532,9 +2532,9 @@ importers:
 
   support:
     specifiers:
-      diffable-html: ^4.1.0
+      diffable-html: ^5.0.0
     dependencies:
-      diffable-html: 4.1.0
+      diffable-html: 5.0.0
 
   support/actions:
     specifiers:
@@ -16459,8 +16459,8 @@ packages:
     engines: {node: '>=0.3.1'}
     dev: false
 
-  /diffable-html/4.1.0:
-    resolution: {integrity: sha512-++kyNek+YBLH8cLXS+iTj/Hiy2s5qkRJEJ8kgu/WHbFrVY2vz9xPFUT+fii2zGF0m1CaojDlQJjkfrCt7YWM1g==}
+  /diffable-html/5.0.0:
+    resolution: {integrity: sha512-BymfWdoIv53XDp/sINPyngxiyJr7ygmAoUN7nIlPC7E+jiLvPdVIZteG4btCaB5Nyf8CMyMxp8r4Vi2r1FtSsA==}
     dependencies:
       htmlparser2: 3.10.1
     dev: false
@@ -22412,7 +22412,7 @@ packages:
     resolution: {integrity: sha512-2+x8esE/Wb9SQ1F9IHaYWfsC9FIecLOPrK4g17FGEayjUWH172H6nwicRovGvSE2CPZouc2MCIqCI7h9d+GftQ==}
     engines: {node: '>=4'}
     dependencies:
-      graceful-fs: 4.2.8
+      graceful-fs: 4.2.10
       is-promise: 2.2.2
       lodash: 4.17.21
       pify: 3.0.0
@@ -28410,7 +28410,7 @@ packages:
   /steno/0.4.4:
     resolution: {integrity: sha1-BxEFvfwobmYVwEA8J+nXtdy4Vcs=}
     dependencies:
-      graceful-fs: 4.2.8
+      graceful-fs: 4.2.10
     dev: false
 
   /store2/2.12.0:
@@ -31301,7 +31301,7 @@ packages:
     resolution: {integrity: sha512-V50KMwwzqJV0NpZIZFwfOD5/lyny3WlSzRiXgA0G7VUnRlqttta1L6UQIHzd6EuBY/cHGfwTIck7w1yH6Q5zUw==}
 
   github.com/remirror/patch-package/13efcef0a4e1ba5a2db2a41f0385699520ee2d69:
-    resolution: {commit: 13efcef0a4e1ba5a2db2a41f0385699520ee2d69, repo: git+ssh://git@github.com/remirror/patch-package.git, type: git}
+    resolution: {tarball: https://codeload.github.com/remirror/patch-package/tar.gz/13efcef0a4e1ba5a2db2a41f0385699520ee2d69}
     name: patch-package
     version: 6.4.7
     engines: {npm: '>5'}
