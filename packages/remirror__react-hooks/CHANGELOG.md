@@ -1,5 +1,16 @@
 # @remirror/react-hooks
 
+## 1.0.33
+
+> 2022-04-28
+
+### Patch Changes
+
+- Insert emoticons when hitting the Enter key (rather than requiring a space)
+
+- Updated dependencies []:
+  - @remirror/extension-emoji@1.0.24
+
 ## 1.0.32
 
 > 2022-04-26

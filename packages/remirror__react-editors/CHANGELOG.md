@@ -1,5 +1,18 @@
 # @remirror/react-editors
 
+## 0.1.75
+
+> 2022-04-28
+
+### Patch Changes
+
+- Insert emoticons when hitting the Enter key (rather than requiring a space)
+
+- Updated dependencies []:
+  - remirror@1.0.78
+  - @remirror/extension-react-tables@1.0.36
+  - @remirror/react@1.0.36
+
 ## 0.1.74
 
 > 2022-04-26
